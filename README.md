@@ -1,0 +1,2 @@
+# sse-proto
+Prototyping sse
